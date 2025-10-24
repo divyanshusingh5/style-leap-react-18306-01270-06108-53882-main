@@ -1,4 +1,0 @@
-treatment_course,claim_count,avg_settlement,avg_severity_score,total_settlement
-Passive,360,78813,4.89,28372821
-Active,541,78608,5.03,42526915
-Eval Only,99,78809,4.76,7802087
