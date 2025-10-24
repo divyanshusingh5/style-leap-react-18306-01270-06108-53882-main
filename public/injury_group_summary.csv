@@ -1,0 +1,6 @@
+injury_group,body_region,severity_category,claim_count,avg_settlement,avg_predicted,avg_variance_pct,avg_settlement_days,total_settlement
+Soft Tissue,Unknown,Unknown,206,79292,0,0,390,16334214
+Orthopedic,Unknown,Unknown,209,77792,0,0,382,16258447
+Head/Brain,Unknown,Unknown,208,77261,0,0,420,16070270
+Multiple,Unknown,Unknown,189,79745,0,0,405,15071785
+Spinal,Unknown,Unknown,188,79612,0,0,388,14967107

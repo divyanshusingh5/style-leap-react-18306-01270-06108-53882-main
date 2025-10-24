@@ -1,0 +1,6 @@
+venue_rating,state,county,claim_count,avg_settlement,avg_predicted,avg_variance_pct,avg_venue_rating_point,high_variance_pct
+Unknown,IL,Unknown,221,77403,0,0,0,0
+Unknown,CA,Unknown,197,82235,0,0,0,0
+Unknown,TX,Unknown,195,75257,0,0,0,0
+Unknown,FL,Unknown,195,75436,0,0,0,0
+Unknown,NY,Unknown,192,83388,0,0,0,0

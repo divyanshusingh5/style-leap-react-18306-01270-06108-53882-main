@@ -1,0 +1,31 @@
+factor_name,factor_value,claim_count,avg_variance_pct,contribution_score,correlation_strength
+Injury Extent,Mild,505,0,0,Low
+Injury Extent,Moderate,393,0,0,Low
+Injury Extent,Severe,102,0,0,Low
+Treatment Course,Passive,360,0,0,Low
+Treatment Course,Active,541,0,0,Low
+Treatment Course,Eval Only,99,0,0,Low
+Pain Management,OTC,272,0,0,Low
+Pain Management,RX,501,0,0,Low
+Pain Management,Single Injection,48,0,0,Low
+Pain Management,Rx,179,0,0,Low
+Physical Therapy,Yes - Inpatient,126,0,0,Low
+Physical Therapy,Yes - Outpatient,349,0,0,Low
+Physical Therapy,Yes,276,0,0,Low
+Physical Therapy,No,249,0,0,Low
+Vehicle Impact,Minimal,253,0,0,Low
+Vehicle Impact,Heavy,327,0,0,Low
+Vehicle Impact,Moderate,420,0,0,Low
+Emergency Treatment,Unknown,950,0,0,Low
+Emergency Treatment,Yes - Treated & Released,48,0,0,Low
+Prior Treatment,No,775,0,0,Low
+Prior Treatment,No/Non-Factor,154,0,0,Low
+Prior Treatment,Yes - Tx More than 1 Yr,71,0,0,Low
+INJURY SEVERITY CATEGORY,Unknown,1000,0,0,Low
+BODY REGION,Unknown,1000,0,0,Low
+Consistent Mechanism,Consistent,844,0,0,Low
+Consistent Mechanism,Questionable,124,0,0,Low
+Consistent Mechanism,Highly Unlikely,32,0,0,Low
+Treatment Delays,None/Explained,744,0,0,Low
+Treatment Delays,Delay Only,137,0,0,Low
+Treatment Delays,Gaps Only,78,0,0,Low

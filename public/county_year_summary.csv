@@ -1,0 +1,6 @@
+county,state,year,venue_rating,claim_count,total_settlement,avg_settlement,avg_variance_pct,high_variance_count,high_variance_pct,overprediction_count,underprediction_count
+Unknown,IL,2025,Unknown,221,17105984,77403,0,0,0,0,0
+Unknown,TX,2025,Unknown,195,14675139,75257,0,0,0,0,0
+Unknown,NY,2025,Unknown,192,16010409,83388,0,0,0,0,0
+Unknown,FL,2025,Unknown,195,14710003,75436,0,0,0,0,0
+Unknown,CA,2025,Unknown,197,16200288,82235,0,0,0,0,0

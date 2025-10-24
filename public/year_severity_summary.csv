@@ -1,0 +1,2 @@
+year,severity_category,claim_count,total_actual_settlement,total_predicted_settlement,avg_actual_settlement,avg_predicted_settlement,avg_variance_pct,avg_settlement_days,overprediction_count,underprediction_count,high_variance_count
+2025,Unknown,1000,78701823,0,78702,0,0,397,0,0,0

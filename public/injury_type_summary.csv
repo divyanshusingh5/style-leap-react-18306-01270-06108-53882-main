@@ -1,0 +1,6 @@
+injury_group,claim_count,avg_settlement,avg_days_to_settlement,total_settlement
+Spinal,203,76033,376,15434653
+Head/Brain,209,77778,409,16255549
+Multiple,198,77384,418,15322129
+Soft Tissue,201,79841,381,16047962
+Orthopedic,189,82759,401,15641530

@@ -1,0 +1,2 @@
+adjuster_name,claim_count,avg_actual_settlement,avg_predicted_settlement,avg_variance_pct,high_variance_count,high_variance_pct,overprediction_count,underprediction_count,avg_settlement_days
+Unknown,1000,78702,0,0,0,0,0,0,397
