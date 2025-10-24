@@ -1,6 +1,342 @@
 county,state,year,venue_rating,claim_count,total_settlement,avg_settlement,avg_variance_pct,high_variance_count,high_variance_pct,overprediction_count,underprediction_count
-Unknown,IL,2025,Unknown,221,17105984,77403,0,0,0,0,0
-Unknown,TX,2025,Unknown,195,14675139,75257,0,0,0,0,0
-Unknown,NY,2025,Unknown,192,16010409,83388,0,0,0,0,0
-Unknown,FL,2025,Unknown,195,14710003,75436,0,0,0,0,0
-Unknown,CA,2025,Unknown,197,16200288,82235,0,0,0,0,0
+Alameda,CA,2023,Defense Friendly,3,315573,105191,-10.72,0,0,0,0
+Alameda,NY,2023,Neutral,2,180948,90474,-10.08,0,0,0,0
+Alameda,NY,2023,Plaintiff Friendly,5,286182,57236,-2.1,0,0,0,0
+Alameda,TX,2023,Plaintiff Friendly,4,311858,77965,4.24,0,0,0,0
+Alameda,IL,2023,Neutral,4,429935,107484,-3.89,0,0,0,0
+Alameda,IL,2023,Plaintiff Friendly,3,170376,56792,4.41,0,0,0,0
+Alameda,NY,2023,Defense Friendly,3,338059,112686,-1.31,0,0,0,0
+Alameda,FL,2023,Plaintiff Friendly,1,123084,123084,-17.59,0,0,0,0
+Alameda,FL,2023,Defense Friendly,4,158910,39728,18.66,1,25,0,1
+Alameda,CA,2023,Plaintiff Friendly,2,248168,124084,-12,0,0,0,0
+Alameda,CA,2023,Neutral,6,588425,98071,-2.13,1,16.67,0,1
+Alameda,TX,2023,Neutral,5,341509,68302,5.65,1,20,0,1
+Alameda,TX,2023,Defense Friendly,3,270392,90131,15.57,1,33.33,0,1
+Alameda,IL,2023,Defense Friendly,3,208544,69515,-4.75,0,0,0,0
+Alameda,FL,2023,Neutral,1,145330,145330,4.46,0,0,0,0
+Los Angeles,FL,2023,Defense Friendly,3,263040,87680,19.91,1,33.33,0,1
+Los Angeles,NY,2023,Plaintiff Friendly,3,244325,81442,4.08,1,33.33,0,1
+Los Angeles,CA,2023,Plaintiff Friendly,3,207587,69196,-11.61,0,0,0,0
+Los Angeles,IL,2023,Defense Friendly,4,349010,87253,1.57,1,25,0,1
+Los Angeles,CA,2023,Defense Friendly,2,153439,76720,18.71,1,50,0,1
+Los Angeles,FL,2023,Neutral,3,316237,105412,-14.98,0,0,0,0
+Los Angeles,TX,2023,Defense Friendly,2,200214,100107,-0.81,0,0,0,0
+Los Angeles,FL,2023,Plaintiff Friendly,6,423045,70508,16.71,3,50,0,3
+Los Angeles,NY,2023,Neutral,2,187446,93723,16.33,1,50,0,1
+Los Angeles,IL,2023,Plaintiff Friendly,2,179283,89642,2.48,0,0,0,0
+Los Angeles,TX,2023,Neutral,5,247283,49457,3.81,0,0,0,0
+Los Angeles,TX,2023,Plaintiff Friendly,3,258279,86093,22.41,2,66.67,0,2
+Los Angeles,IL,2023,Neutral,2,124128,62064,5.47,0,0,0,0
+Los Angeles,CA,2023,Neutral,4,314391,78598,4.42,1,25,0,1
+Los Angeles,NY,2023,Defense Friendly,3,370442,123481,-3.92,0,0,0,0
+Orange,IL,2023,Plaintiff Friendly,3,160996,53665,2.88,0,0,0,0
+Orange,CA,2023,Plaintiff Friendly,6,559039,93173,-11.12,0,0,0,0
+Orange,FL,2023,Plaintiff Friendly,2,208376,104188,14.37,1,50,0,1
+Orange,CA,2023,Neutral,2,97384,48692,-0.48,0,0,0,0
+Orange,TX,2023,Neutral,4,242230,60558,20.54,3,75,0,3
+Orange,NY,2023,Neutral,4,290764,72691,1.82,0,0,0,0
+Orange,IL,2023,Neutral,1,138390,138390,14.44,0,0,0,0
+Orange,IL,2023,Defense Friendly,4,318615,79654,18.73,2,50,0,2
+Orange,CA,2023,Defense Friendly,3,316825,105608,5.69,1,33.33,0,1
+Orange,TX,2023,Defense Friendly,1,36540,36540,-7.01,0,0,0,0
+Orange,NY,2023,Defense Friendly,2,88820,44410,-12.64,0,0,0,0
+Orange,NY,2023,Plaintiff Friendly,4,361549,90387,-0.59,0,0,0,0
+Orange,FL,2023,Defense Friendly,1,67893,67893,-14.11,0,0,0,0
+Orange,TX,2023,Plaintiff Friendly,1,126131,126131,34.23,1,100,0,1
+Riverside,TX,2023,Neutral,3,58359,19453,14,1,33.33,0,1
+Riverside,IL,2023,Plaintiff Friendly,3,381408,127136,7.57,1,33.33,0,1
+Riverside,CA,2023,Neutral,1,49902,49902,17.91,0,0,0,0
+Riverside,CA,2023,Plaintiff Friendly,2,151814,75907,-8.88,0,0,0,0
+Riverside,FL,2023,Defense Friendly,3,252296,84099,-11.34,0,0,0,0
+Riverside,NY,2023,Plaintiff Friendly,3,146954,48985,-9.05,0,0,0,0
+Riverside,NY,2023,Defense Friendly,2,224868,112434,1.92,0,0,0,0
+Riverside,TX,2023,Defense Friendly,3,205616,68539,7.22,1,33.33,0,1
+Riverside,FL,2023,Neutral,3,246243,82081,12.92,1,33.33,0,1
+Riverside,IL,2023,Defense Friendly,5,505809,101162,5.4,2,40,0,2
+Riverside,IL,2023,Neutral,4,363849,90962,6.88,1,25,0,1
+Riverside,FL,2023,Plaintiff Friendly,2,201466,100733,-8.32,0,0,0,0
+Riverside,TX,2023,Plaintiff Friendly,2,139904,69952,6.12,0,0,0,0
+Riverside,NY,2023,Neutral,1,108970,108970,12.93,0,0,0,0
+Riverside,CA,2023,Defense Friendly,1,68621,68621,0.49,0,0,0,0
+Sacramento,CA,2023,Defense Friendly,3,239958,79986,0.63,0,0,0,0
+Sacramento,TX,2023,Plaintiff Friendly,2,154758,77379,6.81,0,0,0,0
+Sacramento,NY,2023,Plaintiff Friendly,2,160441,80221,-13.06,0,0,0,0
+Sacramento,TX,2023,Defense Friendly,3,258799,86266,25.62,2,66.67,0,2
+Sacramento,FL,2023,Defense Friendly,4,195990,48998,-5.62,0,0,0,0
+Sacramento,TX,2023,Neutral,2,152542,76271,-2.72,0,0,0,0
+Sacramento,IL,2023,Defense Friendly,1,132768,132768,-19.01,0,0,0,0
+Sacramento,FL,2023,Plaintiff Friendly,2,55498,27749,25.63,1,50,0,1
+Sacramento,NY,2023,Neutral,1,132700,132700,-18.67,0,0,0,0
+Sacramento,IL,2023,Plaintiff Friendly,4,298171,74543,17.68,2,50,0,2
+Sacramento,NY,2023,Defense Friendly,1,3923,3923,-5.84,0,0,0,0
+Sacramento,CA,2023,Neutral,2,193844,96922,19.45,1,50,0,1
+Sacramento,IL,2023,Neutral,3,215670,71890,9.16,1,33.33,0,1
+San Bernardino,IL,2023,Neutral,2,12274,6137,-11.96,0,0,0,0
+San Bernardino,CA,2023,Plaintiff Friendly,1,119638,119638,1.19,0,0,0,0
+San Bernardino,FL,2023,Neutral,2,118133,59067,10.09,0,0,0,0
+San Bernardino,FL,2023,Plaintiff Friendly,2,260791,130396,12.8,1,50,0,1
+San Bernardino,TX,2023,Neutral,2,225447,112724,19.55,1,50,0,1
+San Bernardino,NY,2023,Neutral,2,160841,80421,-13.27,0,0,0,0
+San Bernardino,IL,2023,Plaintiff Friendly,2,240198,120099,-19.37,0,0,0,0
+San Bernardino,CA,2023,Defense Friendly,3,313891,104630,-1.11,0,0,0,0
+San Bernardino,TX,2023,Plaintiff Friendly,2,42722,21361,28.7,1,50,0,1
+San Bernardino,CA,2023,Neutral,3,215541,71847,-13.47,0,0,0,0
+San Bernardino,NY,2023,Defense Friendly,2,113295,56648,-18.06,0,0,0,0
+San Bernardino,FL,2023,Defense Friendly,4,172191,43048,-2.63,0,0,0,0
+San Bernardino,TX,2023,Defense Friendly,2,233098,116549,-7.72,0,0,0,0
+San Bernardino,IL,2023,Defense Friendly,1,97204,97204,-22.94,0,0,0,0
+San Diego,NY,2023,Plaintiff Friendly,4,268788,67197,-9.27,0,0,0,0
+San Diego,NY,2023,Neutral,3,170631,56877,-3.09,0,0,0,0
+San Diego,FL,2023,Defense Friendly,4,294973,73743,4.78,0,0,0,0
+San Diego,FL,2023,Plaintiff Friendly,6,376326,62721,-2.83,1,16.67,0,1
+San Diego,NY,2023,Defense Friendly,3,197436,65812,9.15,1,33.33,0,1
+San Diego,TX,2023,Defense Friendly,3,189257,63086,29.03,2,66.67,0,2
+San Diego,IL,2023,Defense Friendly,3,181247,60416,17.85,1,33.33,0,1
+San Diego,TX,2023,Neutral,3,139952,46651,-0.03,0,0,0,0
+San Diego,FL,2023,Neutral,6,387069,64512,18.46,2,33.33,0,2
+San Diego,IL,2023,Plaintiff Friendly,1,98110,98110,41.04,1,100,0,1
+San Diego,IL,2023,Neutral,1,112313,112313,6.98,0,0,0,0
+San Diego,TX,2023,Plaintiff Friendly,1,93944,93944,-20.62,0,0,0,0
+San Diego,CA,2023,Neutral,1,73234,73234,20.21,0,0,0,0
+San Diego,CA,2023,Defense Friendly,1,79069,79069,-11.35,0,0,0,0
+San Diego,CA,2023,Plaintiff Friendly,2,82832,41416,8.49,0,0,0,0
+San Francisco,IL,2023,Neutral,7,672056,96008,12.59,2,28.57,0,2
+San Francisco,FL,2023,Neutral,3,181975,60658,-16.64,0,0,0,0
+San Francisco,NY,2023,Plaintiff Friendly,2,137469,68735,16.15,1,50,0,1
+San Francisco,NY,2023,Defense Friendly,2,165266,82633,-6.79,0,0,0,0
+San Francisco,TX,2023,Defense Friendly,2,133068,66534,-18.74,0,0,0,0
+San Francisco,IL,2023,Plaintiff Friendly,2,85217,42609,0.13,0,0,0,0
+San Francisco,TX,2023,Neutral,3,237514,79171,-8.78,0,0,0,0
+San Francisco,FL,2023,Plaintiff Friendly,5,437627,87525,5.02,1,20,0,1
+San Francisco,CA,2023,Neutral,3,295867,98622,15.8,1,33.33,0,1
+San Francisco,CA,2023,Plaintiff Friendly,3,254886,84962,20.02,1,33.33,0,1
+San Francisco,IL,2023,Defense Friendly,1,83578,83578,-0.83,0,0,0,0
+San Francisco,TX,2023,Plaintiff Friendly,3,245216,81739,-13.43,0,0,0,0
+San Francisco,FL,2023,Defense Friendly,2,148186,74093,4.98,1,50,0,1
+San Francisco,CA,2023,Defense Friendly,3,164956,54985,1.12,0,0,0,0
+San Francisco,NY,2023,Neutral,1,55331,55331,-13.11,0,0,0,0
+Alameda,CA,2024,Defense Friendly,4,240178,60045,-7.07,0,0,0,0
+Alameda,IL,2024,Defense Friendly,5,298486,59697,13.1,2,40,0,2
+Alameda,IL,2024,Plaintiff Friendly,4,308453,77113,13.49,1,25,0,1
+Alameda,FL,2024,Defense Friendly,2,259824,129912,-9.77,0,0,0,0
+Alameda,NY,2024,Plaintiff Friendly,3,229451,76484,22.12,2,66.67,0,2
+Alameda,NY,2024,Defense Friendly,3,346318,115439,2.56,1,33.33,0,1
+Alameda,CA,2024,Neutral,5,342564,68513,-2.71,0,0,0,0
+Alameda,FL,2024,Neutral,2,168504,84252,16.5,0,0,0,0
+Alameda,IL,2024,Neutral,2,173353,86677,21.37,1,50,0,1
+Alameda,TX,2024,Plaintiff Friendly,1,149553,149553,4.4,0,0,0,0
+Alameda,CA,2024,Plaintiff Friendly,3,183509,61170,7.73,0,0,0,0
+Alameda,TX,2024,Defense Friendly,1,47159,47159,13.2,0,0,0,0
+Alameda,TX,2024,Neutral,1,116663,116663,-20.87,0,0,0,0
+Alameda,NY,2024,Neutral,1,34040,34040,7.31,0,0,0,0
+Los Angeles,FL,2024,Plaintiff Friendly,2,256739,128370,-22.18,0,0,0,0
+Los Angeles,FL,2024,Defense Friendly,4,315698,78925,-7.79,0,0,0,0
+Los Angeles,FL,2024,Neutral,5,464613,92923,11.76,0,0,0,0
+Los Angeles,NY,2024,Neutral,4,340787,85197,5.69,1,25,0,1
+Los Angeles,TX,2024,Neutral,4,161791,40448,-0.11,0,0,0,0
+Los Angeles,CA,2024,Neutral,4,241834,60459,-1.56,0,0,0,0
+Los Angeles,NY,2024,Defense Friendly,3,295125,98375,2.82,0,0,0,0
+Los Angeles,CA,2024,Defense Friendly,1,17648,17648,2.53,0,0,0,0
+Los Angeles,IL,2024,Defense Friendly,3,113577,37859,19.75,2,66.67,0,2
+Los Angeles,NY,2024,Plaintiff Friendly,3,324519,108173,-0.26,0,0,0,0
+Los Angeles,TX,2024,Plaintiff Friendly,2,54639,27320,23.13,1,50,0,1
+Los Angeles,IL,2024,Neutral,1,43587,43587,-21.87,0,0,0,0
+Los Angeles,TX,2024,Defense Friendly,1,65994,65994,0.67,0,0,0,0
+Los Angeles,CA,2024,Plaintiff Friendly,1,135406,135406,-15.85,0,0,0,0
+Orange,FL,2024,Neutral,3,153456,51152,-10.24,0,0,0,0
+Orange,IL,2024,Plaintiff Friendly,4,328386,82097,0.13,1,25,0,1
+Orange,FL,2024,Plaintiff Friendly,1,45460,45460,-15.18,0,0,0,0
+Orange,NY,2024,Neutral,4,361253,90313,3.6,0,0,0,0
+Orange,IL,2024,Neutral,6,347710,57952,-9.1,0,0,0,0
+Orange,CA,2024,Defense Friendly,3,259406,86469,6.11,0,0,0,0
+Orange,FL,2024,Defense Friendly,4,399185,99796,4.99,1,25,0,1
+Orange,TX,2024,Defense Friendly,3,327616,109205,-7.98,0,0,0,0
+Orange,IL,2024,Defense Friendly,3,255861,85287,-9.57,0,0,0,0
+Orange,CA,2024,Neutral,3,315023,105008,4.61,0,0,0,0
+Orange,NY,2024,Plaintiff Friendly,3,397106,132369,22.64,1,33.33,0,1
+Orange,CA,2024,Plaintiff Friendly,2,238240,119120,1.04,0,0,0,0
+Orange,NY,2024,Defense Friendly,2,106264,53132,0.19,0,0,0,0
+Orange,TX,2024,Plaintiff Friendly,1,134889,134889,-12.85,0,0,0,0
+Riverside,TX,2024,Defense Friendly,4,316011,79003,4.49,1,25,0,1
+Riverside,NY,2024,Neutral,2,115214,57607,-1.97,0,0,0,0
+Riverside,FL,2024,Neutral,3,261499,87166,0.2,0,0,0,0
+Riverside,FL,2024,Defense Friendly,2,102515,51258,4.02,0,0,0,0
+Riverside,TX,2024,Plaintiff Friendly,8,661570,82696,-1.91,1,12.5,0,1
+Riverside,NY,2024,Plaintiff Friendly,3,210442,70147,2.78,1,33.33,0,1
+Riverside,IL,2024,Neutral,4,294742,73686,3.19,0,0,0,0
+Riverside,FL,2024,Plaintiff Friendly,4,384865,96216,-0.82,0,0,0,0
+Riverside,IL,2024,Defense Friendly,5,365345,73069,6.87,1,20,0,1
+Riverside,CA,2024,Defense Friendly,1,120834,120834,-5.23,0,0,0,0
+Riverside,CA,2024,Neutral,1,21014,21014,11.68,0,0,0,0
+Riverside,IL,2024,Plaintiff Friendly,1,83504,83504,-11.32,0,0,0,0
+Riverside,TX,2024,Neutral,2,147830,73915,19.73,1,50,0,1
+Riverside,CA,2024,Plaintiff Friendly,1,32630,32630,19.69,0,0,0,0
+Riverside,NY,2024,Defense Friendly,1,147389,147389,-18.53,0,0,0,0
+Sacramento,FL,2024,Plaintiff Friendly,2,95306,47653,-15.8,0,0,0,0
+Sacramento,TX,2024,Neutral,2,207847,103924,29.82,1,50,0,1
+Sacramento,CA,2024,Defense Friendly,5,554556,110911,9.74,1,20,0,1
+Sacramento,IL,2024,Plaintiff Friendly,2,162915,81458,-2.88,0,0,0,0
+Sacramento,TX,2024,Defense Friendly,4,240677,60169,12.09,0,0,0,0
+Sacramento,IL,2024,Neutral,3,165778,55259,25.04,2,66.67,0,2
+Sacramento,NY,2024,Defense Friendly,2,160970,80485,3.01,0,0,0,0
+Sacramento,IL,2024,Defense Friendly,2,144184,72092,2.1,0,0,0,0
+Sacramento,NY,2024,Plaintiff Friendly,4,375046,93762,-7.93,0,0,0,0
+Sacramento,CA,2024,Neutral,4,333317,83329,-3.3,0,0,0,0
+Sacramento,CA,2024,Plaintiff Friendly,4,208527,52132,-5.16,0,0,0,0
+Sacramento,FL,2024,Neutral,1,55135,55135,9.31,0,0,0,0
+Sacramento,FL,2024,Defense Friendly,1,78353,78353,11.03,0,0,0,0
+San Bernardino,IL,2024,Plaintiff Friendly,4,234357,58589,0.89,1,25,0,1
+San Bernardino,TX,2024,Defense Friendly,4,330960,82740,5.46,0,0,0,0
+San Bernardino,NY,2024,Neutral,4,245582,61396,-9.39,0,0,0,0
+San Bernardino,CA,2024,Neutral,1,70492,70492,-19.47,0,0,0,0
+San Bernardino,NY,2024,Defense Friendly,2,259605,129803,1.93,0,0,0,0
+San Bernardino,FL,2024,Plaintiff Friendly,3,232998,77666,0.72,0,0,0,0
+San Bernardino,IL,2024,Neutral,2,204629,102315,9.44,0,0,0,0
+San Bernardino,CA,2024,Defense Friendly,2,244750,122375,-14.92,0,0,0,0
+San Bernardino,IL,2024,Defense Friendly,4,265874,66469,2,1,25,0,1
+San Bernardino,TX,2024,Plaintiff Friendly,2,25817,12909,7.02,0,0,0,0
+San Bernardino,TX,2024,Neutral,2,216045,108023,-20.59,0,0,0,0
+San Bernardino,NY,2024,Plaintiff Friendly,2,211092,105546,9.71,1,50,0,1
+San Bernardino,FL,2024,Defense Friendly,3,211649,70550,7.51,0,0,0,0
+San Bernardino,FL,2024,Neutral,2,207785,103893,-9.71,0,0,0,0
+San Bernardino,CA,2024,Plaintiff Friendly,1,27233,27233,2.67,0,0,0,0
+San Diego,CA,2024,Defense Friendly,4,323002,80751,-5.23,0,0,0,0
+San Diego,IL,2024,Neutral,7,436522,62360,9.49,1,14.29,0,1
+San Diego,CA,2024,Plaintiff Friendly,2,223445,111723,17.29,1,50,0,1
+San Diego,FL,2024,Neutral,3,101866,33955,-12.15,0,0,0,0
+San Diego,NY,2024,Neutral,1,124861,124861,-7.35,0,0,0,0
+San Diego,FL,2024,Defense Friendly,4,391114,97779,9.45,0,0,0,0
+San Diego,TX,2024,Neutral,3,269340,89780,-9.31,0,0,0,0
+San Diego,TX,2024,Plaintiff Friendly,4,311780,77945,0.48,1,25,0,1
+San Diego,IL,2024,Plaintiff Friendly,3,226415,75472,12.82,1,33.33,0,1
+San Diego,CA,2024,Neutral,3,239290,79763,6.57,1,33.33,0,1
+San Diego,TX,2024,Defense Friendly,1,14579,14579,21.75,0,0,0,0
+San Diego,IL,2024,Defense Friendly,2,134863,67432,-18.13,0,0,0,0
+San Diego,NY,2024,Defense Friendly,4,308312,77078,6.19,0,0,0,0
+San Diego,NY,2024,Plaintiff Friendly,2,173469,86735,15.79,0,0,0,0
+San Diego,FL,2024,Plaintiff Friendly,1,25579,25579,41.75,1,100,0,1
+San Francisco,IL,2024,Plaintiff Friendly,4,263081,65770,4.33,1,25,0,1
+San Francisco,IL,2024,Defense Friendly,3,245639,81880,12.28,0,0,0,0
+San Francisco,CA,2024,Defense Friendly,7,564268,80610,3.01,1,14.29,0,1
+San Francisco,TX,2024,Plaintiff Friendly,4,259730,64933,17.91,2,50,0,2
+San Francisco,IL,2024,Neutral,5,513245,102649,7.34,1,20,0,1
+San Francisco,NY,2024,Defense Friendly,3,137594,45865,-2.77,0,0,0,0
+San Francisco,TX,2024,Defense Friendly,4,87397,21849,11.33,1,25,0,1
+San Francisco,CA,2024,Neutral,6,514536,85756,-1.48,0,0,0,0
+San Francisco,FL,2024,Neutral,5,392701,78540,-3.51,0,0,0,0
+San Francisco,NY,2024,Neutral,4,333386,83347,-16.06,0,0,0,0
+San Francisco,CA,2024,Plaintiff Friendly,3,306839,102280,9.07,1,33.33,0,1
+San Francisco,TX,2024,Neutral,3,209144,69715,3.45,0,0,0,0
+San Francisco,NY,2024,Plaintiff Friendly,1,133711,133711,-18.28,0,0,0,0
+Alameda,IL,2025,Neutral,8,427024,53378,6.47,2,25,0,2
+Alameda,CA,2025,Neutral,1,107023,107023,-1.79,0,0,0,0
+Alameda,FL,2025,Neutral,5,225093,45019,6.21,1,20,0,1
+Alameda,CA,2025,Plaintiff Friendly,2,24436,12218,40.28,2,100,0,2
+Alameda,NY,2025,Neutral,4,319442,79861,10.19,1,25,0,1
+Alameda,IL,2025,Plaintiff Friendly,3,351872,117291,-4.97,0,0,0,0
+Alameda,NY,2025,Defense Friendly,3,208574,69525,-12.08,0,0,0,0
+Alameda,TX,2025,Defense Friendly,2,58992,29496,-4.11,0,0,0,0
+Alameda,TX,2025,Neutral,4,392599,98150,-2.99,1,25,0,1
+Alameda,TX,2025,Plaintiff Friendly,5,376315,75263,4.54,1,20,0,1
+Alameda,IL,2025,Defense Friendly,2,203878,101939,-13.49,0,0,0,0
+Alameda,FL,2025,Defense Friendly,1,22548,22548,15.43,0,0,0,0
+Alameda,CA,2025,Defense Friendly,1,131543,131543,32.4,1,100,0,1
+Los Angeles,CA,2025,Plaintiff Friendly,7,754679,107811,-7.33,0,0,0,0
+Los Angeles,FL,2025,Defense Friendly,5,336785,67357,3.84,2,40,0,2
+Los Angeles,IL,2025,Plaintiff Friendly,3,289814,96605,30.68,3,100,0,3
+Los Angeles,NY,2025,Plaintiff Friendly,2,165552,82776,-3.19,0,0,0,0
+Los Angeles,IL,2025,Neutral,3,303650,101217,-1.22,0,0,0,0
+Los Angeles,NY,2025,Neutral,3,322951,107650,17.76,1,33.33,0,1
+Los Angeles,TX,2025,Plaintiff Friendly,4,385195,96299,4.41,1,25,0,1
+Los Angeles,IL,2025,Defense Friendly,1,116234,116234,32.75,1,100,0,1
+Los Angeles,TX,2025,Neutral,1,133226,133226,-3.35,0,0,0,0
+Los Angeles,NY,2025,Defense Friendly,3,254306,84769,10.96,1,33.33,0,1
+Los Angeles,TX,2025,Defense Friendly,3,114808,38269,-11.89,0,0,0,0
+Los Angeles,FL,2025,Plaintiff Friendly,3,371154,123718,4.22,1,33.33,0,1
+Los Angeles,CA,2025,Neutral,1,23439,23439,-7.73,0,0,0,0
+Orange,FL,2025,Defense Friendly,4,452308,113077,-10.5,0,0,0,0
+Orange,CA,2025,Plaintiff Friendly,3,336967,112322,-5.98,0,0,0,0
+Orange,NY,2025,Neutral,1,146153,146153,-21.78,0,0,0,0
+Orange,TX,2025,Plaintiff Friendly,4,374099,93525,1.96,1,25,0,1
+Orange,NY,2025,Defense Friendly,7,599338,85620,6.71,2,28.57,0,2
+Orange,NY,2025,Plaintiff Friendly,3,150336,50112,-11.57,0,0,0,0
+Orange,CA,2025,Defense Friendly,4,313406,78352,3.19,0,0,0,0
+Orange,TX,2025,Defense Friendly,4,384434,96109,25.15,2,50,0,2
+Orange,FL,2025,Plaintiff Friendly,2,174121,87061,11.11,0,0,0,0
+Orange,IL,2025,Neutral,3,167994,55998,19.09,1,33.33,0,1
+Orange,IL,2025,Plaintiff Friendly,2,229266,114633,-8.89,0,0,0,0
+Orange,CA,2025,Neutral,1,3900,3900,6.56,0,0,0,0
+Orange,IL,2025,Defense Friendly,1,137919,137919,-14.05,0,0,0,0
+Riverside,FL,2025,Neutral,5,336031,67206,0.82,1,20,0,1
+Riverside,TX,2025,Plaintiff Friendly,4,395250,98813,-8.8,0,0,0,0
+Riverside,NY,2025,Defense Friendly,3,296064,98688,8.74,0,0,0,0
+Riverside,TX,2025,Defense Friendly,6,417982,69664,4.44,1,16.67,0,1
+Riverside,TX,2025,Neutral,2,150589,75295,19.2,1,50,0,1
+Riverside,NY,2025,Plaintiff Friendly,3,215892,71964,2.3,0,0,0,0
+Riverside,FL,2025,Plaintiff Friendly,2,151049,75525,0.91,0,0,0,0
+Riverside,IL,2025,Plaintiff Friendly,2,261578,130789,-5.47,0,0,0,0
+Riverside,CA,2025,Neutral,2,116361,58181,-10.65,0,0,0,0
+Riverside,IL,2025,Neutral,4,479617,119904,-4.29,0,0,0,0
+Riverside,CA,2025,Plaintiff Friendly,2,274271,137136,-4.07,0,0,0,0
+Riverside,CA,2025,Defense Friendly,5,344457,68891,-5.4,0,0,0,0
+Riverside,FL,2025,Defense Friendly,2,219465,109733,13.96,0,0,0,0
+Riverside,IL,2025,Defense Friendly,1,88743,88743,9.33,0,0,0,0
+Sacramento,IL,2025,Neutral,2,171727,85864,25.01,1,50,0,1
+Sacramento,TX,2025,Plaintiff Friendly,2,278678,139339,17.51,1,50,0,1
+Sacramento,FL,2025,Defense Friendly,5,466094,93219,-1.44,0,0,0,0
+Sacramento,IL,2025,Plaintiff Friendly,3,70463,23488,-18.62,0,0,0,0
+Sacramento,FL,2025,Plaintiff Friendly,4,165312,41328,-2.2,1,25,0,1
+Sacramento,FL,2025,Neutral,5,324345,64869,2.78,1,20,0,1
+Sacramento,NY,2025,Neutral,2,205157,102579,22.61,1,50,0,1
+Sacramento,NY,2025,Plaintiff Friendly,2,193496,96748,-17.3,0,0,0,0
+Sacramento,IL,2025,Defense Friendly,2,51069,25535,-16.67,0,0,0,0
+Sacramento,TX,2025,Neutral,5,658151,131630,-3.92,0,0,0,0
+Sacramento,NY,2025,Defense Friendly,2,94102,47051,-9.82,0,0,0,0
+Sacramento,TX,2025,Defense Friendly,2,141407,70704,2.92,0,0,0,0
+Sacramento,CA,2025,Plaintiff Friendly,2,153116,76558,1.95,0,0,0,0
+Sacramento,CA,2025,Defense Friendly,2,80277,40139,14.45,0,0,0,0
+Sacramento,CA,2025,Neutral,1,65812,65812,-11.69,0,0,0,0
+San Bernardino,IL,2025,Plaintiff Friendly,2,196617,98309,14.68,1,50,0,1
+San Bernardino,CA,2025,Neutral,3,275462,91821,-3.26,0,0,0,0
+San Bernardino,IL,2025,Defense Friendly,4,354772,88693,6.29,1,25,0,1
+San Bernardino,IL,2025,Neutral,7,327652,46807,1.44,1,14.29,0,1
+San Bernardino,FL,2025,Plaintiff Friendly,2,209390,104695,-11.49,0,0,0,0
+San Bernardino,TX,2025,Neutral,4,269138,67285,9.23,1,25,0,1
+San Bernardino,CA,2025,Plaintiff Friendly,4,349032,87258,-3.04,1,25,0,1
+San Bernardino,CA,2025,Defense Friendly,4,239425,59856,-1.7,1,25,0,1
+San Bernardino,NY,2025,Defense Friendly,3,320846,106949,12.19,1,33.33,0,1
+San Bernardino,NY,2025,Plaintiff Friendly,3,231063,77021,-12.7,0,0,0,0
+San Bernardino,TX,2025,Plaintiff Friendly,2,86987,43494,16.98,1,50,0,1
+San Bernardino,TX,2025,Defense Friendly,1,132134,132134,11.74,0,0,0,0
+San Bernardino,NY,2025,Neutral,3,417832,139277,-0.95,0,0,0,0
+San Bernardino,FL,2025,Defense Friendly,1,87363,87363,37.25,1,100,0,1
+San Bernardino,FL,2025,Neutral,3,270992,90331,-3.73,0,0,0,0
+San Diego,IL,2025,Defense Friendly,6,515539,85923,-1.1,1,16.67,0,1
+San Diego,NY,2025,Neutral,5,289240,57848,5.52,1,20,0,1
+San Diego,FL,2025,Neutral,3,163260,54420,17.08,1,33.33,0,1
+San Diego,CA,2025,Neutral,4,411490,102873,-10.3,0,0,0,0
+San Diego,NY,2025,Defense Friendly,5,341547,68309,1.7,0,0,0,0
+San Diego,TX,2025,Defense Friendly,2,235728,117864,0.21,0,0,0,0
+San Diego,CA,2025,Defense Friendly,3,268301,89434,-2.75,1,33.33,0,1
+San Diego,TX,2025,Neutral,2,169076,84538,-14.71,0,0,0,0
+San Diego,CA,2025,Plaintiff Friendly,3,101342,33781,3.45,1,33.33,0,1
+San Diego,FL,2025,Defense Friendly,3,233614,77871,9.26,1,33.33,0,1
+San Diego,FL,2025,Plaintiff Friendly,2,166090,83045,-8.7,0,0,0,0
+San Diego,IL,2025,Plaintiff Friendly,4,161940,40485,3.09,0,0,0,0
+San Diego,IL,2025,Neutral,5,403926,80785,3.21,0,0,0,0
+San Diego,TX,2025,Plaintiff Friendly,2,115159,57580,-17.01,0,0,0,0
+San Francisco,NY,2025,Plaintiff Friendly,8,633365,79171,3.38,1,12.5,0,1
+San Francisco,FL,2025,Neutral,2,126657,63329,-18.02,0,0,0,0
+San Francisco,FL,2025,Defense Friendly,7,439105,62729,13.94,3,42.86,0,3
+San Francisco,TX,2025,Plaintiff Friendly,4,193271,48318,13.21,0,0,0,0
+San Francisco,IL,2025,Plaintiff Friendly,5,383718,76744,3.17,0,0,0,0
+San Francisco,CA,2025,Defense Friendly,4,416897,104224,-4.56,0,0,0,0
+San Francisco,NY,2025,Neutral,4,379945,94986,8.81,1,25,0,1
+San Francisco,TX,2025,Defense Friendly,3,245806,81935,18.17,2,66.67,0,2
+San Francisco,FL,2025,Plaintiff Friendly,3,129704,43235,22.94,1,33.33,0,1
+San Francisco,TX,2025,Neutral,2,64452,32226,-4.74,0,0,0,0
+San Francisco,NY,2025,Defense Friendly,5,458224,91645,8.01,0,0,0,0
+San Francisco,IL,2025,Defense Friendly,2,170095,85048,-6.46,0,0,0,0
+San Francisco,CA,2025,Neutral,2,99595,49798,-3.98,0,0,0,0
+San Francisco,CA,2025,Plaintiff Friendly,5,445632,89126,-2.12,1,20,0,1
+San Francisco,IL,2025,Neutral,1,71222,71222,22.93,0,0,0,0

@@ -1,6 +1,121 @@
 venue_rating,state,county,claim_count,avg_settlement,avg_predicted,avg_variance_pct,avg_venue_rating_point,high_variance_pct
-Unknown,IL,Unknown,221,77403,0,0,0,0
-Unknown,CA,Unknown,197,82235,0,0,0,0
-Unknown,TX,Unknown,195,75257,0,0,0,0
-Unknown,FL,Unknown,195,75436,0,0,0,0
-Unknown,NY,Unknown,192,83388,0,0,0,0
+Neutral,IL,Alameda,14,73594,1,5.64,0,21.43
+Defense Friendly,CA,San Francisco,14,81866,0,0.44,0,7.14
+Plaintiff Friendly,TX,Riverside,14,85480,1,-2.73,0,7.14
+Neutral,IL,San Francisco,13,96656,0,11.36,0,23.08
+Defense Friendly,TX,Riverside,13,72278,1,5.1,0,23.08
+Neutral,IL,San Diego,13,73289,0,6.88,0,7.69
+Defense Friendly,FL,Los Angeles,12,76294,1,3.98,0,25
+Neutral,FL,San Diego,12,54350,0,10.46,0,25
+Neutral,CA,Alameda,12,86501,1,-2.35,0,8.33
+Defense Friendly,NY,San Diego,12,70608,1,5.06,0,8.33
+Neutral,IL,Riverside,12,94851,0,1.93,0,8.33
+Neutral,IL,San Bernardino,11,49505,0,0.46,0,9.09
+Plaintiff Friendly,NY,San Francisco,11,82231,0,3.74,0,18.18
+Neutral,FL,Riverside,11,76707,0,3.95,0,18.18
+Plaintiff Friendly,CA,Orange,11,103113,0,-7.51,0,0
+Plaintiff Friendly,CA,Los Angeles,11,99788,0,-9.27,0,0
+Plaintiff Friendly,FL,Los Angeles,11,95540,0,6.23,0,36.36
+Plaintiff Friendly,IL,San Francisco,11,66547,1,3.04,0,9.09
+Defense Friendly,IL,San Diego,11,75604,0,0.97,0,18.18
+Defense Friendly,FL,San Diego,11,83609,1,7.7,0,9.09
+Plaintiff Friendly,TX,San Francisco,11,63474,0,7.65,0,18.18
+Defense Friendly,NY,Orange,11,72220,0,2,0,18.18
+Neutral,CA,San Francisco,11,82727,0,2.78,0,9.09
+Defense Friendly,IL,Riverside,11,87263,0,6.42,0,27.27
+Plaintiff Friendly,CA,San Francisco,11,91578,1,6.97,0,27.27
+Neutral,FL,San Francisco,10,70133,1,-10.35,0,0
+Defense Friendly,IL,Alameda,10,71091,0,2.43,0,20
+Defense Friendly,CA,Sacramento,10,87479,1,7.95,0,10
+Defense Friendly,NY,San Francisco,10,76108,1,1.82,0,0
+Plaintiff Friendly,TX,Alameda,10,83773,1,4.4,0,10
+Plaintiff Friendly,IL,Alameda,10,83070,1,5.22,0,10
+Defense Friendly,FL,Sacramento,10,74044,0,-1.87,0,0
+Neutral,IL,Orange,10,65409,1,1.71,0,10
+Defense Friendly,CA,Orange,10,88964,0,4.82,0,10
+Neutral,TX,Los Angeles,10,54230,0,1.53,0,0
+Plaintiff Friendly,NY,Orange,10,90899,1,3.08,0,10
+Neutral,TX,Alameda,10,85077,1,-0.46,0,20
+Plaintiff Friendly,IL,Orange,9,79850,1,-0.96,0,11.11
+Defense Friendly,FL,Orange,9,102154,1,-4.02,0,11.11
+Neutral,NY,San Diego,9,64970,0,1.22,0,11.11
+Neutral,NY,Orange,9,88686,0,-0.01,0,0
+Defense Friendly,FL,San Francisco,9,65255,1,11.95,0,44.44
+Defense Friendly,IL,San Bernardino,9,79761,1,1.14,0,22.22
+Plaintiff Friendly,IL,Sacramento,9,59061,1,1.01,0,22.22
+Defense Friendly,TX,San Francisco,9,51808,1,6.93,0,33.33
+Defense Friendly,NY,Alameda,9,99217,0,-3.61,0,11.11
+Plaintiff Friendly,FL,San Diego,9,63111,0,0.82,0,22.22
+Neutral,NY,San Bernardino,9,91584,1,-7.44,0,0
+Neutral,NY,San Francisco,9,85407,1,-4.68,0,11.11
+Plaintiff Friendly,NY,Riverside,9,63699,1,-1.32,0,11.11
+Neutral,NY,Los Angeles,9,94576,1,12.08,0,33.33
+Neutral,TX,Sacramento,9,113171,0,3.84,0,11.11
+Defense Friendly,TX,Sacramento,9,71209,0,14.56,0,22.22
+Neutral,CA,Los Angeles,9,64407,0,0.41,0,11.11
+Defense Friendly,NY,Los Angeles,9,102208,1,3.29,0,11.11
+Defense Friendly,CA,San Bernardino,9,88674,0,-4.44,0,11.11
+Plaintiff Friendly,TX,Los Angeles,9,77568,1,14.57,0,44.44
+Defense Friendly,CA,San Diego,8,83797,0,-5.07,0,12.5
+Defense Friendly,CA,Alameda,8,85912,1,-3.51,0,12.5
+Plaintiff Friendly,IL,San Bernardino,8,83897,0,-0.73,0,25
+Neutral,IL,Sacramento,8,69147,0,19.08,0,50
+Plaintiff Friendly,NY,Alameda,8,64454,1,6.98,0,25
+Plaintiff Friendly,FL,Sacramento,8,39515,1,1.36,0,25
+Plaintiff Friendly,NY,Los Angeles,8,91800,1,0.64,0,12.5
+Neutral,FL,Los Angeles,8,97606,1,1.73,0,0
+Neutral,CA,San Diego,8,90502,1,-0.16,0,12.5
+Neutral,TX,San Francisco,8,63889,1,-3.18,0,0
+Plaintiff Friendly,NY,Sacramento,8,91123,1,-11.55,0,0
+Neutral,TX,San Bernardino,8,88829,1,4.36,0,25
+Neutral,FL,Alameda,8,67366,0,8.56,0,12.5
+Defense Friendly,IL,Los Angeles,8,72353,1,12.28,0,50
+Plaintiff Friendly,FL,San Francisco,8,70916,1,11.74,0,25
+Defense Friendly,IL,Orange,8,89049,0,4.02,0,25
+Plaintiff Friendly,FL,Riverside,8,92173,1,-2.27,0,0
+Neutral,TX,San Diego,8,72296,1,-7.18,0,0
+Defense Friendly,TX,Orange,8,93574,0,8.71,0,25
+Plaintiff Friendly,IL,San Diego,8,60808,0,11.48,0,25
+Defense Friendly,FL,San Bernardino,8,58900,1,6.16,0,12.5
+Neutral,TX,Riverside,7,50968,1,17.12,0,42.86
+Neutral,CA,San Bernardino,7,80214,1,-9.95,0,0
+Neutral,NY,Alameda,7,76347,1,3.99,0,14.29
+Defense Friendly,FL,Riverside,7,82039,0,0.28,0,0
+Defense Friendly,FL,Alameda,7,63040,1,10.08,0,14.29
+Neutral,FL,San Bernardino,7,85273,0,-1.49,0,0
+Plaintiff Friendly,CA,San Diego,7,58231,0,8.85,0,28.57
+Plaintiff Friendly,FL,San Bernardino,7,100454,0,0.68,0,14.29
+Defense Friendly,TX,San Bernardino,7,99456,1,2.59,0,0
+Plaintiff Friendly,CA,Alameda,7,65159,1,11.39,0,28.57
+Defense Friendly,NY,San Bernardino,7,99107,0,0.61,0,14.29
+Plaintiff Friendly,TX,San Diego,7,74412,1,-7.53,0,14.29
+Defense Friendly,CA,Riverside,7,76273,0,-4.53,0,0
+Neutral,CA,Sacramento,7,84710,1,2,0,14.29
+Plaintiff Friendly,NY,San Diego,6,73710,0,-0.92,0,0
+Defense Friendly,IL,San Francisco,6,83219,0,3.85,0,0
+Defense Friendly,NY,Riverside,6,111387,0,1.92,0,0
+Plaintiff Friendly,CA,San Bernardino,6,82651,1,-1.38,0,16.67
+Plaintiff Friendly,TX,Orange,6,105853,1,4.87,0,33.33
+Neutral,CA,Orange,6,69385,1,3.23,0,0
+Plaintiff Friendly,IL,Riverside,6,121082,0,0.08,0,16.67
+Defense Friendly,TX,San Diego,6,73261,1,18.21,0,33.33
+Neutral,FL,Sacramento,6,63247,0,3.87,0,16.67
+Defense Friendly,TX,Los Angeles,6,63503,1,-6.1,0,0
+Defense Friendly,TX,Alameda,6,62757,0,8.62,0,16.67
+Neutral,IL,Los Angeles,6,78561,1,-2.43,0,0
+Plaintiff Friendly,TX,San Bernardino,6,25921,1,17.57,0,33.33
+Plaintiff Friendly,CA,Sacramento,6,60274,1,-2.79,0,0
+Plaintiff Friendly,FL,Orange,5,85591,1,7.15,0,20
+Plaintiff Friendly,CA,Riverside,5,91743,0,-1.25,0,0
+Plaintiff Friendly,IL,Los Angeles,5,93819,0,19.4,0,60
+Defense Friendly,IL,Sacramento,5,65604,0,-9.63,0,0
+Defense Friendly,NY,Sacramento,5,51799,0,-3.89,0,0
+Plaintiff Friendly,NY,San Bernardino,5,88431,1,-3.74,0,20
+Plaintiff Friendly,TX,Sacramento,4,108359,1,12.16,0,25
+Neutral,TX,Orange,4,60558,0,20.54,0,75
+Neutral,CA,Riverside,4,46819,0,2.07,0,0
+Neutral,NY,Riverside,3,74728,1,3,0,0
+Neutral,FL,Orange,3,51152,1,-10.24,0,0
+Neutral,NY,Sacramento,3,112619,0,8.85,0,33.33
+Defense Friendly,CA,Los Angeles,3,57029,0,13.32,0,33.33
+Plaintiff Friendly,FL,Alameda,1,123084,0,-17.59,0,0
